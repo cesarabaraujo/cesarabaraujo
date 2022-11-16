@@ -1,7 +1,7 @@
 - <h1 align="center">Oii 👋, tudo bom? Me chamo César Augusto</h1>
 <h3 align="center">Sou um apaixonado por análise e ciência de dados !!</h3>
 
-- 🌱 Estou me dedicado no aprimoramento de ferramentas como **Python, SQL e Power BI**
+- 🌱 Tenho aprendido sobre ferramentas como **Python, SQL e Power BI**
 
 - 📝 Também publico artigos no [https://medium.com/@cesarabaraujo](https://medium.com/@cesarabaraujo)
 
