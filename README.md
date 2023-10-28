@@ -1,3 +1,6 @@
+![Foto de Capa](https://github.com/cesarabaraujo/capa_perfil/blob/main/1667700866345.jpeg)
+
+
 <h1 align="center">Chegue mais nesse espaço voltado ao universo dos dados!!</h1>
 
 <h3 align="center">Me chamo César Augusto, administrador por formação, um apaixonado por resolver problemas e encontrar soluções através de dados.</h3>
