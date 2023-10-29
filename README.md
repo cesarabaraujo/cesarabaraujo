@@ -5,7 +5,7 @@
 
 <h3 align="center">Me chamo César Augusto, administrador por formação, um apaixonado por resolver problemas e encontrar soluções através de dados.</h3>
 
-- Gosto de **análise de dados, economia, machine learning e também tenho conhecimentos na área de monitoramento de dados digitais (social listening)**.
+- Por aqui você vai achar projetos que envolvem **análise de dados, economia, finanças, machine learning e monitoramento de dados digitais (social listening), entre outros temas correlacionados**.
 
 - Atuei em campanhas políticas, para instituições como SEPEC e Banco Master como analista de dados digitais, com foco em elaboração de relatórios sobre o ambiente digital.
 
