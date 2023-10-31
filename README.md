@@ -7,7 +7,7 @@
 
 - Por aqui você vai achar projetos que envolvem **análise de dados, economia, finanças, machine learning e monitoramento de dados digitais (social listening), entre outros temas correlacionados**.
 
-- Atuei em campanhas políticas, para instituições como SEPEC e Banco Master como analista de dados digitais, com foco em elaboração de relatórios sobre o ambiente digital.
+- Atuei em campanhas políticas, além de atuar junto a instituições como SEPEC e Banco Master como analista de dados digitais, com foco em elaboração de relatórios sobre o ambiente digital.
 
 - Algumas das ferramentas e tecnologias que domino são **Python, SQL, Power BI, Excel, Ferramentas de monitoramento como Stiingue e brandwatch, entre outras**.
 
