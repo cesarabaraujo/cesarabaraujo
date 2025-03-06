@@ -7,7 +7,8 @@
 
 - Por aqui você vai achar projetos que envolvem **análise de dados, economia, finanças, machine learning e monitoramento de dados digitais (social listening), entre outros temas correlacionados**.
 
-- Atuei em campanhas políticas, além de atuar junto a instituições como SEPEC e Banco Master como analista de dados digitais, com foco em elaboração de relatórios sobre o ambiente digital.
+- Gerenciei o time de monitoramento e pesquisa em campanhas importantes do país, como a do deputado federal Guilherme Boulos para a prefeitura de São Paulo em 2025, a de Eduardo Pimentel para a prefeitura de Curitiba e a eleição da OAB/RJ em 2025.
+Atualmente, atuo como consultor em dados e pesquisa para a agência NOVA, no NII (Núcleo de Integridade da Informação), com o objetivo de mapear fake news e desenvolver um agregador de pesquisas. Além disso, trabalhei como analista de dados digitais para instituições como a SEPEC e continuo atuando como analista para o Banco Master, com foco na elaboração de relatórios sobre o ambiente digital.
 
 - Algumas das ferramentas e tecnologias que domino são **Python, SQL, Power BI, Excel, Ferramentas de monitoramento como Stiingue e brandwatch, entre outras**.
 
